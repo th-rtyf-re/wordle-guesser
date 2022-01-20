@@ -22,9 +22,6 @@ Next, run `python guess_wordle.py <CSV filename>`, and check out the list of
 candidates. The more results you give as input, the fewer possible candidates
 there are!
 
-Next, run `guess_wordle.py`, and check out the list of candidates. The more
-results you give as input, the fewer possible candidates there are!
-
 ### Annex files
 
 `words.csv` is a `CSV` file listing each guessable word, along with all
